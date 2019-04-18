@@ -1,0 +1,43 @@
+#div1 {
+    background-color: powderblue;
+    border: 5px solid black;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+#div2 {
+    background-color: lavender;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+#div3 {
+    background-color: lightpink;
+    border: 5px solid black;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#section1 {
+    background-color: powderblue;
+    border: none;
+    cursor: pointer;
+}
+#section2 {
+    background-color: lavender;
+    border: none;
+    cursor: pointer;
+}
+#section3 {
+    background-color: lightpink;
+    border: none;
+    cursor: pointer;
+}
+#section4 {
+    background-color: white;
+
+    cursor: pointer;
+}
+
+
+body{
+    font-family: 'Barrio'; font-size: 24px;
+}
