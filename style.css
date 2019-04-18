@@ -20,21 +20,24 @@
     background-color: powderblue;
     border: none;
     cursor: pointer;
+    width: 270px;
 }
 #section2 {
     background-color: lavender;
     border: none;
     cursor: pointer;
+    width: 270px;
 }
 #section3 {
     background-color: lightpink;
     border: none;
     cursor: pointer;
+    width: 270px;
 }
 #section4 {
     background-color: white;
-
     cursor: pointer;
+    width: 270px;
 }
 
 
