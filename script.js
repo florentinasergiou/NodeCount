@@ -21,3 +21,11 @@ document.getElementById("section4").addEventListener("click", function() {
     var nodelist = document.getElementsByTagName("P").length;
     alert("There are " + nodelist + " paragraph in div4");
 });
+
+function mOver(obj) {
+  obj.innerHTML = "Click"
+}
+
+function mOut(obj) {
+  obj.innerHTML = "How many P tags are in all the divs?"
+}
